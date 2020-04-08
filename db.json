@@ -1,26 +1,24 @@
-[
+{
+  "todos": [
   {
-    "id": 1,
     "nombre": "Johnny",
     "apellido": "Latrago",
-    "foto": "https://www.google.com/search?q=basuritas&sxsrf=ALeKk01nqgnZEBz-mQ88HzqGbIvAWEheiQ:1586371928921&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi58Lf6v9noAhXHEbkGHSCkBIYQ_AUoAXoECBUQAw&biw=1366&bih=646#imgrc=0gRbWSg8845T7M&imgdii=qxup-LSGH-yoiM",
+    "foto": "http://www.redargentum.com.ar/perfil1.jpg",
   },
   {
-    "id": 2,
     "nombre": "Olga",
     "apellido": "Rote",
-    "foto": "https://www.google.com/search?q=basuritas&sxsrf=ALeKk01nqgnZEBz-mQ88HzqGbIvAWEheiQ:1586371928921&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi58Lf6v9noAhXHEbkGHSCkBIYQ_AUoAXoECBUQAw&biw=1366&bih=646#imgrc=2lcghlU3SHbmkM&imgdii=eH1THzLJh3Cf2M",
+    "foto": "http://www.redargentum.com.ar/perfil2.jpg",
   },
   {
-    "id": 3,
     "nombre": "Ernesto",
     "apellido": "Mado",
-    "foto": "https://www.google.com/search?q=basuritas&sxsrf=ALeKk01nqgnZEBz-mQ88HzqGbIvAWEheiQ:1586371928921&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi58Lf6v9noAhXHEbkGHSCkBIYQ_AUoAXoECBUQAw&biw=1366&bih=646#imgrc=qxup-LSGH-yoiM&imgdii=pTXY1GJ8BUUb2M",
+    "foto": "http://www.redargentum.com.ar/perfil3.jpg",
   },
   {
-    "id": 4,
     "nombre": "Pedro",
     "apellido": "Medario",
-    "foto": "https://www.google.com/search?q=basuritas&sxsrf=ALeKk01nqgnZEBz-mQ88HzqGbIvAWEheiQ:1586371928921&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi58Lf6v9noAhXHEbkGHSCkBIYQ_AUoAXoECBUQAw&biw=1366&bih=646#imgrc=ikFBmL_RZa8QpM&imgdii=0gRbWSg8845T7M",
+    "foto": "http://www.redargentum.com.ar/perfil14.jpg",
   }
 ]
+}
