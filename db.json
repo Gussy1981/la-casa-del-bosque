@@ -5,7 +5,7 @@
     "id": "0",
     "nombre": "Johnny",
     "apellido": "Latrago",
-    "foto": "http://www.redargentum.com.ar/pefil1.jpg"
+    "foto": "http://localhost:3000/perfil1.jpg"
   },
   {
     "id": "1",
