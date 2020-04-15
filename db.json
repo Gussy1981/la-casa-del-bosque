@@ -1,17 +1,29 @@
 {
 
-  "nombreQueQuieras":[
-          {
-              "id": 1,
-              "nombre": "John Constantine",
-              "ciudad": "Londres",
-              "added": false
-          },
-         {   
-             "id": 2,
-             "nombre": "Dolores Abernathy",
-             "ciudad": "Barcelona",
-             "added": false 
-          }
-   ]
+  "perfilesBasuritas":[
+  {
+    "id": "0",
+    "nombre": "Alejandro",
+    "apellido": "Cozzi",
+    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/1067774/user/icon/impression/f1?rev=9885268"
+  },
+  {
+    "id": "1",
+    "nombre": "Dario",
+    "apellido": "Elias",
+    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/1045076/user/icon/impression/f1?rev=10048094"
+  },
+  {
+    "id": "2",
+    "nombre": "Leandro Gil",
+    "apellido": "Carrano",
+    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/323368/user/icon/impression/f1?rev=3453270"
+  },
+  {
+    "id": "3",
+    "nombre": "Diego",
+    "apellido": "Freda",
+    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/603933/user/icon/impression/f1?rev=9797608"
+  }
+]
 }
