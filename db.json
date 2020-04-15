@@ -5,7 +5,7 @@
     "id": "0",
     "nombre": "Johnny",
     "apellido": "Latrago",
-    "foto": img src="perfil1.jpg"
+    "foto": <img src="perfil1.jpg">
   },
   {
     "id": "1",
