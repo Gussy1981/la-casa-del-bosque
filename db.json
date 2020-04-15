@@ -3,27 +3,27 @@
   "perfilesBasuritas":[
   {
     "id": "0",
-    "nombre": "Alejandro",
-    "apellido": "Cozzi",
-    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/1067774/user/icon/impression/f1?rev=9885268"
+    "nombre": "Johnny",
+    "apellido": "Latrago",
+    "foto": "http://www.redargentum.com.ar/pefil1.jpg"
   },
   {
     "id": "1",
-    "nombre": "Dario",
-    "apellido": "Elias",
-    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/1045076/user/icon/impression/f1?rev=10048094"
+    "nombre": "Olga",
+    "apellido": "Rote",
+    "foto": "http://www.redargentum.com.ar/pefil2.jpg"
   },
   {
     "id": "2",
-    "nombre": "Leandro Gil",
-    "apellido": "Carrano",
-    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/323368/user/icon/impression/f1?rev=3453270"
+    "nombre": "Ernesto",
+    "apellido": "Mado",
+    "foto": "http://www.redargentum.com.ar/pefil3.jpg"
   },
   {
     "id": "3",
-    "nombre": "Diego",
-    "apellido": "Freda",
-    "foto": "https://www.adistancia.frba.utn.edu.ar/pluginfile.php/603933/user/icon/impression/f1?rev=9797608"
+    "nombre": "Pedro",
+    "apellido": "Medario",
+    "foto": "http://www.redargentum.com.ar/pefil4.jpg"
   }
 ]
 }
