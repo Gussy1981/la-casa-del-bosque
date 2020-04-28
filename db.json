@@ -2,25 +2,25 @@
 
   "perfilesBasuritas":[
   {
-    "id": "0",
+    "id": 1,
     "nombre": "Johnny",
     "apellido": "Latrago",
     "foto": "http://www.redargentum.com.ar/perfil1.jpg"
   },
   {
-    "id": "1",
+    "id": 2,
     "nombre": "Olga",
     "apellido": "Rote",
     "foto": "http://www.redargentum.com.ar/perfil2.jpg"
   },
   {
-    "id": "2",
+    "id": 3,
     "nombre": "Ernesto",
     "apellido": "Mado",
     "foto": "http://www.redargentum.com.ar/perfil3.jpg"
   },
   {
-    "id": "3",
+    "id": 4,
     "nombre": "Pedro",
     "apellido": "Medario",
     "foto": "http://www.redargentum.com.ar/perfil4.jpg"
